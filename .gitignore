@@ -31,11 +31,3 @@ build/
 ### VS Code ###
 .vscode/
 
-*.class
-
-**/*.class
-
-# Package Files #
-*.jar*
-*.war
-*.ear
